@@ -1,4 +1,4 @@
-## Howdy :turtle:
+## Hello! :turtle:
 
 Welcome to my GitHub! 
 
